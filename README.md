@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <h2 align="center">✨🐢  Full Stack Blockchain Engineer 🚀✨</h2>
 
 ## 🕵️‍♂️ About Me
